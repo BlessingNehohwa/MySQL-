@@ -1,2 +1,2 @@
 # MySQL- 
-These are refresher exercises with basic, intermediate and Advanced MySql
+These are refresher exercises with basic, intermediate and Advanced MySql, data cleaning project
